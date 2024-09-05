@@ -39,6 +39,8 @@ Homes with well-maintained **outdoor features** like porches, decks, and garages
 
 ### 1. Distribution of Sale Prices
 The distribution of sale prices shows that most homes fall between \$100,000 and \$300,000. A small percentage of homes sell for significantly higher prices, creating a slight skew towards the right.
+<img src="./DistributionOfSalePrices.png" alt="Distribution of Sale Prices" width="50%" height="50%">
+
 
 ![Distribution of Sale Prices](./DistributionOfSalePrices.png)
 
@@ -47,6 +49,7 @@ The distribution of sale prices shows that most homes fall between \$100,000 and
 ### 2. Correlation of Key Features
 The heatmap below illustrates the correlation between various features and the sale price. Features like **GrLivArea** and **OverallQual** show the strongest positive correlations with sale price.
 
+<img src="./CorrelationMatrixOfNumericFeatures.png" alt="Correlation Matrix of Numeric Features" width="50%" height="50%">
 ![Correlation Matrix of Numeric Features](./CorrelationMatrixOfNumericFeatures.png)
 
 ---
